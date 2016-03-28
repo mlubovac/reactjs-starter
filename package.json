@@ -1,0 +1,26 @@
+{
+  "name": "reactjs-starter",
+  "version": "1.0.0",
+  "description": "ReactJS Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlubovac/reactjs-starter.git"
+  },
+  "keywords": [
+    "reactjs",
+    "react",
+    "router",
+    "starter",
+    "kit"
+  ],
+  "author": "Muharem Lubovac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlubovac/reactjs-starter/issues"
+  },
+  "homepage": "https://github.com/mlubovac/reactjs-starter#readme"
+}
